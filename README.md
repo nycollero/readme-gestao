@@ -32,4 +32,4 @@ Para que todas as informações necessárias para garantir um bom funcionamento 
 - Clone o repositório:
   https://github.com/annRuas/Clothed.git
 
-- Abra o projeto com o aplicativo.
+
